@@ -1,10 +1,10 @@
-# Projet Docker - Samuel Rigaux 🚀
+# Projet Docker 🚀
 
 
 
 **Rendu TP Docker** - Formation RT-Docker  
 **Date** : Février 2026  
-**VM** : Debian 12 (8Go DD, 1Go RAM, 1 vCPU)
+**VM** : Debian 13 (8Go DD, 1Go RAM, 1 vCPU)
 
 ## 📋 Présentation du projet
 
@@ -97,7 +97,7 @@ docker-compose up -d
 | Conteneurs lancés | 45+ |
 | Lignes Dockerfile | 250+ |
 | Alias créés | 22 |
-| Espace disque économisé | 2.3 GB (prune) |
+| Espace disque économisé | 2.3 GB  |
 
 ## 🎓 Compétences Docker
 
@@ -109,7 +109,7 @@ Scripts 🟢 Production 🟢 Stack LAMP 🟢
 
 ## 📄 Ressources
 
-- [Cahier charges (PDF)](RT-Docker.pdf)
+- Cahier charges (PDF)
 - [Docs Docker officielles](https://docs.docker.com/)
 - [Alias Docker](jobs/job05-alias.md) ← Copier dans votre `.bashrc`
 
