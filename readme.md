@@ -41,10 +41,10 @@ docker-samuel-rigaux/
 │   ├── job10-.md
 │   └── job11-.md
 ├── exemples/
-│   ├── Dockerfile-ssh
-│   ├── docker-compose.yml
-│   └── scripts-cleanup.sh
-└── RT-Docker.pdf         ← Cahier des charges
+    ├── Dockerfile-ssh
+    ├── docker-compose.yml
+    └── scripts-cleanup.sh
+
 ```
 
 ## 🚀 Navigation par Job
@@ -111,7 +111,7 @@ Scripts 🟢 Production 🟢 Stack LAMP 🟢
 
 - [Cahier charges (PDF)](RT-Docker.pdf)
 - [Docs Docker officielles](https://docs.docker.com/)
-- [Alias Docker](jobs/job04-aliases.md) ← Copier dans votre `.bashrc`
+- [Alias Docker](jobs/job05-alias.md) ← Copier dans votre `.bashrc`
 
 ## 👨‍💻 Contact
 
