@@ -1,7 +1,5 @@
 # Projet Docker 🚀
 
-
-
 **Rendu TP Docker** - Formation RT-Docker  
 **Date** : Février 2026  
 **VM** : Debian 13 (8Go DD, 1Go RAM, 1 vCPU)
@@ -9,9 +7,11 @@
 ## 📋 Présentation du projet
 
 Suite de **11 jobs pratiques** sur Docker CLI :
+
 - Installation & bases → Images custom → Services → Orchestration → Production
 
 **Compétences acquises** :
+
 ```
 ✅ Docker CLI experte
 ✅ Dockerfile multi-services  
