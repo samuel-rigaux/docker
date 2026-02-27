@@ -36,7 +36,7 @@ docker-samuel-rigaux/
 │   ├── job05-alias.md
 │   ├── job06-volumes.md
 │   ├── job07-compose.md
-│   ├── job08-.md
+│   ├── job08-nginx.md
 │   ├── job09-.md
 │   ├── job10-.md
 │   └── job11-.md
@@ -58,10 +58,10 @@ docker-samuel-rigaux/
 | 05 | Aliases | 20+ alias Docker dans `.bashrc`  | [Job 05](jobs/job05-alias.md) |
 | 06 | Volumes | Partage volumes multi-conteneurs | [Job 06](jobs/job06-volumes.md) |
 | 07 | Docker Compose | Nginx + FTP + volume partagé  | [Job 07](jobs/job07-compose.md) |
-| 08 | Registry Local | Registry privé + UI web | [Job 08](jobs/job08-.md) |
-| 09 | Scripts Bash | Cleanup total + auto-install Docker | [Job 09](jobs/job09-.md) |
-| 10 | Portainer | GUI pour Jobs 2-9 + alternatives | [Job 10](jobs/job10-.md) |
-| 11 | Stack XAMPP | Nginx/PHP + MariaDB + phpMyAdmin + FTP | [Job 11](jobs/job11-.md) |
+| 08 | Nginx | Nginx personnalisé avec dockerfile | [Job 08](jobs/job08-nginx.md) |
+| 09 | Registry Local | Registry privé + UI web | [Job 09](jobs/job09-registry.md) |
+| 10 | Scripts Bash | Cleanup total + auto-install Docker | [Job 10](jobs/job10-script.md) |
+| 11 | Portainer | GUI pour Jobs 2-9 + alternativesP | [Job 11](jobs/job11-portainer.md) |
 
 ## 🎯 Résultats
 
